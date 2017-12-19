@@ -1,0 +1,16 @@
+{
+  "name": "pop-modal",
+  "version": "1.10.0",
+  "description": "jquery plugin for showing tooltips, titles, modal dialogs and etc",
+  "main": "popModal.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimsva/popModal.git"
+  },
+  "author": "vadimsva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vadimsva/popModal/issues"
+  },
+  "homepage": "http://vadimsva.github.io/popModal/"
+}
